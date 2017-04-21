@@ -9,3 +9,4 @@ TrintyX MOOC
 
 Interstingly the most important countries are US, Turkey and india. The two first ones are quite equaly represented by gender.
 on the other hand, the repartition by birth date is globally quite identical per gender, with female represented about 1/3 of the students.
+
