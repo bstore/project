@@ -1,6 +1,7 @@
 # final project
 
 https://bstore.github.io/project/
+
 TrinityX MOOC
 1. Following thanks to find the presentation of the worldwide distribution of the MOOC students by contry. Country diagrams represent the percentage per gender versus total. 
 2. The second chart visualize the student date of birth registeried to the MOOC.
