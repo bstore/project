@@ -10,7 +10,7 @@ TrinityX MOOC
 Interestingly the most important countries are US, India and Turkey. US and Turkey are quite equally represented by gender.
 On the other hand, the repartition by birth date is globally quite identical per gender, where female represented about 1/3 of the students.
 
-<iframe src="https://public.tableau.com/views/Expeschool/Yearsofexperienceversusyearsofschool? :showVizHome=no&:embed=true" width="90%" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/Expeschool/Yearsofexperienceversusyearsofschool?:showVizHome=no&:embed=true" width="90%" height="500"></iframe>
 This chart shows that the MOOC interressed the pratitionners with a motable years of school and experience.
 
 Sources from TrinityX 2017:  
